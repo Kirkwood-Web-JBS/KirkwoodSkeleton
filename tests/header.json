@@ -1,0 +1,58 @@
+{
+  "wrapper": {
+    "id": "wrapper_header",
+    "classes": [
+      "bg-dark",
+      "text-light",
+      "p-2",
+      "d-flex",
+      "justify-content-between"
+    ],
+    "styles": {}
+  },
+  "title": {
+    "text": "Amazing Routing!",
+    "styles": {
+      "font-size": "1.75rem"
+    },
+    "classes": [],
+    "href": ""
+  },
+  "menuWrapper": {
+    "classes": [
+      "d-flex",
+      "d-md-none"
+    ],
+    "styles": {}
+  },
+  "menu":
+  {
+    "id": "wrapper_side_menu"
+  },
+  "menuButton": {
+    "text": "<i class='fas fa-bars'></i>",
+    "id": "btn_menu",
+    "classes": [
+      "btn",
+      "btn-light"
+    ],
+    "styles": {}
+  },
+  "logoutWrapper": {
+    "classes": [
+      "d-none",
+      "d-md-flex"
+    ],
+    "styles": {}
+  },
+  "logout": {
+    "href": "",
+    "classes": [
+      "btn",
+      "btn-outline-light"
+    ],
+    "styles": {},
+    "text": "<i class=\"fas fa-sign-out-alt\"></i>",
+    "id": "btn_logout"
+  }
+}

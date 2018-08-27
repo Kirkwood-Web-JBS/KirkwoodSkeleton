@@ -1,0 +1,21 @@
+{
+  "name": "jsmalley/kirkwood-skeleton",
+  "description": "A bare-bones start for Kirkwood web projects",
+  "license": "proprietary",
+  "type": "library",
+  "authors": [
+    {
+      "name": "jsmalley",
+      "email": "josiah.smalley@kirkwood.edu"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "KirkwoodSkeleton\\": "src/"
+    }
+  }
+}

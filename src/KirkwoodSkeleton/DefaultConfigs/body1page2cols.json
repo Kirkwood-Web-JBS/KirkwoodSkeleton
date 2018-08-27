@@ -1,0 +1,31 @@
+{
+  "wrapper": {
+    "id": "wrapper_body",
+    "classes": [
+      "bg-white",
+      "text-dark"
+    ],
+    "styles": {
+      "overflow": "auto",
+      "position": "relative"
+    }
+  },
+  "leftPane": {
+    "classes": [
+      "p-0"
+    ],
+    "styles": {
+      "overflow": "hidden"
+    },
+    "id": "pane_left"
+  },
+  "rightPane": {
+    "classes": [
+      "p-0"
+    ],
+    "styles": {
+      "overflow": "hidden"
+    },
+    "id": "pane_right"
+  }
+}

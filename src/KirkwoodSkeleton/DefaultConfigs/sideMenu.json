@@ -1,0 +1,16 @@
+{
+  "wrapper": {
+    "id": "wrapper_side_menu",
+    "classes":[
+      "d-block",
+      "d-md-none"
+    ],
+    "styles": {
+      "position": "absolute",
+      "width": "350px",
+      "left": "-350px",
+      "height": "98%",
+      "z-index": "100"
+    }
+  }
+}

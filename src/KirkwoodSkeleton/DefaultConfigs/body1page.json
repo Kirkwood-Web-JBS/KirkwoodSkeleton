@@ -1,0 +1,13 @@
+{
+  "wrapper": {
+    "id": "wrapper_body",
+    "classes": [
+      "bg-white",
+      "text-dark"
+    ],
+    "styles": {
+      "overflow": "auto",
+      "position": "relative"
+    }
+  }
+}
