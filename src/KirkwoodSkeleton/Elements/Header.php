@@ -54,10 +54,10 @@ class Header extends Base
 
     echo <<<SCRIPT
 <script>
-    let sideMenuClose = true;
+    var sideMenuClose = true;
 
     function handleSideMenuAnimation(){
-      let sideMenu = $("#wrapper_side_menu");
+      var sideMenu = $("#wrapper_side_menu");
       
       sideMenu.stop();
       if (sideMenuClose){
